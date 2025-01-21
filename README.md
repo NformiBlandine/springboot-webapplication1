@@ -3,6 +3,7 @@
 # Pre-Requisites
     Springboot Application
     Install Maven
+    apt install maven
 # Clone code using below command
     git clone https://github.com/Naresh240/springboot-webapplication.git
     cd springboot-webapplication
