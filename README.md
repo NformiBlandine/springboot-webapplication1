@@ -3,7 +3,7 @@
 # Pre-Requisites
     Springboot Application
     Install Maven
-    apt install maven
+ 
 
     or downlod using wget
 # Clone code using below command
